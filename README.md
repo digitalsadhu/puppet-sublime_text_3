@@ -50,7 +50,7 @@ sublime_text_3::package { 'Alignment':
 ## Required Puppet Modules
 
 * [boxen] >= 2.1.0
-* [repository] >= 2.2.0
+* [repository] >= 2.0.2
 * [stdlib] >= 4.1.0
 
 
